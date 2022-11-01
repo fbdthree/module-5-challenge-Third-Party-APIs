@@ -21,4 +21,4 @@ The *Work Day Scheduler* is a dynamic webpage that displays every hour in the wo
 
 ## ***Work Day Scheduler***
 
-![This is a screenshot of the Work Day Scheduler](week-5-challenge/work-day-scheduler.png)
+![This is a screenshot of the Work Day Scheduler](/week-5-challenge/work-day-scheduler.png)

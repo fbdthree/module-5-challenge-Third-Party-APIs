@@ -15,4 +15,10 @@ The *Work Day Scheduler* is a dynamic webpage that displays every hour in the wo
   * JavaScript
   * jQuery
 
-  
+## **Uniform Resource Locator (URL)**
+
+[Random Password Generator](https://fbdthree.github.io/week-5-challenge/)
+
+## ***Work Day Scheduler***
+
+![This is a screenshot of the Work Day Scheduler](week-5-challenge/work-day-scheduler.png)
